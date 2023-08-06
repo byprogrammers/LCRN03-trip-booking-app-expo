@@ -76,7 +76,7 @@ const App = () => {
 
                 {/* Tabs */}
                 < Stack.Screen
-                    name="Home"
+                    name="HomeTabs"
                     component={Tabs}
                     options={{
                         title: null,
